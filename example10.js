@@ -15,3 +15,4 @@ const timer1 = setTimeout(() => {
 }, 0);
 
 console.log("end");
+exam
